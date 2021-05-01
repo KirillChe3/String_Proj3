@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1619854089 source:/home/kirill/My_WorkSpace/String_Proj/String_Proj3/main.cpp
+	<iostream>
+	<iterator>
+	<algorithm>
+	<vector>
+	<sstream>
+	<string>
+	<fstream>
+
